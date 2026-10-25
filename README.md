@@ -14,7 +14,7 @@ A chat system for analyzing US airports and identifying signs of a need for term
 **Complete both requirements below before running the project:**
 
 1. **Docker with Docker Compose should be installed, and Docker must be running.** Start Docker Desktop, or make sure the Docker service is running.
-2. **A valid OpenAI API key should be configured in `.env`.** For a new installation, copy `.env.example` to `.env`. If `.env` already exists, use it. Set the key inside it:
+2. **A valid OpenAI API key should be configured in `.env`.** For a new installation, Set the key inside it:
 
    ```dotenv
    OPENAI_API_KEY=your_api_key_here

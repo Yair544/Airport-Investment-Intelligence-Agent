@@ -1,6 +1,3 @@
-# Secrets
-.env
-
 # Runtime data (SQLite database, downloaded source files, backups)
 /data/
 
