@@ -1,0 +1,46 @@
+faa_locid,iata_code,bts_airport_id,note
+0AK,PQS,14234,Manual review 2026-10-25: FAA LOCID 0AK is the Pilot Station AK airport (IATA PQS); BTS reports the only Pilot Station AK airport as PQS (airport 14234).
+16A,NUP,13770,Manual review 2026-10-25: FAA LOCID 16A is the Nunapitchuk AK airport (IATA NUP); BTS reports the only Nunapitchuk AK airport as NUP (airport 13770).
+2A9,KOT,12769,Manual review 2026-10-25: FAA LOCID 2A9 is the Kotlik AK airport (IATA KOT); BTS reports the only Kotlik AK airport as KOT (airport 12769).
+4A2,ATT,10405,Manual review 2026-10-25: FAA LOCID 4A2 is the Atmautluak AK airport (IATA ATT); BTS reports the only Atmautluak AK airport as ATT (airport 10405).
+A61,WTL,15862,Manual review 2026-10-25: FAA LOCID A61 is the Tuntutuliak AK airport (IATA WTL); BTS reports the only Tuntutuliak AK airport as WTL (airport 15862).
+AKW,KLW,12728,"Manual review 2026-10-25: FAA LOCID AKW is Klawock Airport (IATA KLW); BTS reports it as KLW, Klawock AK (airport 12728)."
+AQH,KWN,12853,Manual review 2026-10-25: FAA LOCID AQH is the Quinhagak AK airport (IATA KWN); BTS reports the only Quinhagak AK airport as KWN (airport 12853).
+AWI,AIN,10225,Manual review 2026-10-25: FAA LOCID AWI is the Wainwright AK airport (IATA AIN); BTS reports the only Wainwright AK airport as AIN (airport 10225).
+BBG,BKG,10643,"Manual review 2026-10-25: FAA LOCID BBG is Branson Airport (IATA BKG); BTS reports it as BKG, Branson MO (airport 10643)."
+BVK,BKC,10640,Manual review 2026-10-25: FAA LOCID BVK is the Buckland AK airport (IATA BKC); BTS reports the only Buckland AK airport as BKC (airport 10640).
+BVU,BLD,10661,"Manual review 2026-10-25: FAA LOCID BVU is Boulder City Municipal (IATA BLD); BTS reports it as BLD, Boulder City NV (airport 10661). BTS code BVU is Beluga, AK."
+CFK,CYF,11227,Manual review 2026-10-25: FAA LOCID CFK is the Chefornak AK airport (IATA CYF); BTS reports the only Chefornak AK airport as CYF (airport 11227).
+CPS,CPS,11123,Manual review 2026-10-25: St. Louis Downtown is in Cahokia Heights IL (TAF state IL); BTS reports code CPS in the St. Louis MO city market and state MO. One BTS airport (11123) uses the code.
+CRQ,CLD,11041,"Manual review 2026-10-25: FAA LOCID CRQ is McClellan-Palomar, Carlsbad CA (IATA CLD); BTS reports it as CLD, Carlsbad CA (airport 11041)."
+CVX,,,Manual review 2026-10-25: No BTS T-100 rows in CY2024-CY2025 for code CVX or for Charlevoix MI; left without BTS identifiers.
+D76,ORV,13942,Manual review 2026-10-25: FAA LOCID D76 is the Noorvik AK airport (IATA ORV); BTS reports the only Noorvik AK airport as ORV (airport 13942).
+DCA,DCA,11278,Manual review 2026-10-25: TAF files Ronald Reagan Washington National under DC; BTS reports code DCA in VA (the airport is in Arlington VA). One BTS airport (11278) uses the code.
+DTS,DSI,11421,"Manual review 2026-10-25: FAA LOCID DTS is Destin Executive (IATA DSI); BTS reports it as DSI, Destin FL (airport 11421)."
+DUY,KKH,12708,Manual review 2026-10-25: FAA LOCID DUY is the Kongiganak AK airport (IATA KKH); BTS reports the only Kongiganak AK airport as KKH (airport 12708).
+ENM,EMK,11550,Manual review 2026-10-25: FAA LOCID ENM is the Emmonak AK airport (IATA EMK); BTS reports the only Emmonak AK airport as EMK (airport 11550).
+FHR,FRD,11762,"Manual review 2026-10-25: FAA LOCID FHR is the Friday Harbor land airport (IATA FRD); BTS reports it as FRD, Friday Harbor WA (airport 11762). FBS is the seaplane base (W33)."
+GPI,FCA,11648,"Manual review 2026-10-25: FAA LOCID GPI is Glacier Park International (IATA FCA); BTS reports it as FCA, Kalispell MT (airport 11648)."
+GRO,ROP,14582,"Manual review 2026-10-25: FAA LOCID GRO is Rota International (IATA ROP); BTS reports it as ROP, Rota TT (airport 14582). BTS code GRO is Girona, Spain."
+GSN,SPN,14955,"Manual review 2026-10-25: FAA LOCID GSN is Saipan International (IATA SPN); BTS reports it as SPN, Saipan TT (airport 14955), the only BTS airport for Saipan."
+GUM,GUM,12016,Manual review 2026-10-25: TAF state GU; BTS reports US Pacific territories under state code TT. One BTS airport (12016) uses code GUM; UAM (15422) is Andersen AFB.
+HLA,HSL,12214,"Manual review 2026-10-25: FAA LOCID HLA is Huslia (IATA HSL); BTS reports it as HSL, Huslia AK (airport 12214). BTS code HLA is Lanseria, South Africa."
+HXD,HHH,12124,"Manual review 2026-10-25: FAA LOCID HXD is Hilton Head Airport (IATA HHH); BTS reports it as HHH, Hilton Head SC (airport 12124)."
+IAD,IAD,12264,Manual review 2026-10-25: TAF files Washington Dulles under DC; BTS reports code IAD in VA (the airport is in Virginia). One BTS airport (12264) uses the code.
+IIK,KPN,12779,Manual review 2026-10-25: FAA LOCID IIK is the Kipnuk AK airport (IATA KPN); BTS reports the only Kipnuk AK airport as KPN (airport 12779).
+IWA,AZA,10466,Manual review 2026-10-25: FAA LOCID IWA is Phoenix-Mesa Gateway (IATA AZA); BTS reports it as AZA in the Phoenix AZ city market (airport 10466).
+JQF,USA,12544,"Manual review 2026-10-25: FAA LOCID JQF is Concord-Padgett Regional (IATA USA); BTS reports it as USA, Concord NC (airport 12544)."
+LHD,,,"Manual review 2026-10-25: Lake Hood Seaplane Base has no BTS code LHD; several BTS airports serve Anchorage AK (ANC, MRI, EDF), so no unique match; left without BTS identifiers."
+MDM,MLL,13369,Manual review 2026-10-25: FAA LOCID MDM is the Marshall AK airport (IATA MLL); BTS reports the only Marshall AK airport as MLL (airport 13369).
+ORS,ESD,11588,"Manual review 2026-10-25: FAA LOCID ORS is Orcas Island Airport, Eastsound WA (IATA ESD); BTS reports it as ESD, Eastsound WA (airport 11588)."
+PPG,PPG,14222,Manual review 2026-10-25: TAF state AS; BTS reports US Pacific territories under state code TT. One BTS airport (14222) uses code PPG.
+RCE,,,Manual review 2026-10-25: No BTS airport with code RCE in OK (BTS RCE is Roche Harbor WA) and no unique Oklahoma City candidate; left without BTS identifiers.
+RVR,JRV,12553,"Manual review 2026-10-25: FAA LOCID RVR is Jose Aponte de la Torre, Ceiba PR; BTS reports the only Ceiba PR airport as JRV (airport 12553)."
+S60,KEH,12652,"Manual review 2026-10-25: FAA LOCID S60 is Kenmore Air Harbor (IATA KEH); BTS reports it as KEH, Kenmore WA (airport 12652)."
+SAW,MQT,13459,"Manual review 2026-10-25: FAA LOCID SAW is Marquette/Sawyer Regional (IATA MQT); BTS reports it as MQT, Marquette MI (airport 13459). BTS code SAW is Istanbul Sabiha Gokcen."
+SDL,SCF,14712,"Manual review 2026-10-25: FAA LOCID SDL is Scottsdale Airport (IATA SCF); BTS reports it as SCF in the Phoenix AZ city market (airport 14712). BTS code SDL is Sundsvall, Sweden."
+TNI,TIQ,15215,"Manual review 2026-10-25: FAA LOCID TNI is Tinian International (IATA TIQ); BTS reports it as TIQ, Tinian TT (airport 15215). No BTS airport uses TNI."
+UNV,SCE,14711,"Manual review 2026-10-25: FAA LOCID UNV is State College Regional (IATA SCE); BTS reports it as SCE, State College PA (airport 14711)."
+W33,FBS,11646,"Manual review 2026-10-25: FAA LOCID W33 is Friday Harbor Seaplane Base (IATA FBS); BTS reports it as FBS, Friday Harbor WA (airport 11646)."
+Z09,KUK,12831,Manual review 2026-10-25: FAA LOCID Z09 is the Kasigluk AK airport (IATA KUK); BTS reports the only Kasigluk AK airport as KUK (airport 12831).
+Z13,KKI,12709,Manual review 2026-10-25: FAA LOCID Z13 is the Akiachak AK airport (IATA KKI); BTS reports the only Akiachak AK airport as KKI (airport 12709).

@@ -1,0 +1,4 @@
+[{"origin_airport_id":"10299","origin_airport_code":"ANC","reporting_month":"2025-01-01T00:00:00.000","total_departures":"7012","total_passengers":"180443","total_seats":"254000"},
+{"origin_airport_id":"10299","origin_airport_code":"ANC","reporting_month":"2025-02-01T00:00:00.000","total_departures":"6512","total_passengers":"170010","total_seats":"240100"},
+{"origin_airport_id":"12892","origin_airport_code":"LAX","reporting_month":"2025-01-01T00:00:00.000","total_departures":"16012","total_passengers":"2200000","total_seats":"2700000"},
+{"origin_airport_id":"14908","origin_airport_code":"SNA","reporting_month":"2025-01-01T00:00:00.000","total_departures":"3901","total_passengers":"420000"}]

@@ -1,0 +1,535 @@
+airport_id,faa_locid,iata_code,bts_airport_id,name,city,state,hub_size,mapping_status
+apt_0ak,0AK,PQS,14234,Pilot Station,Pilot Station,AK,nonhub,manual_override
+apt_16a,16A,NUP,13770,Nunapitchuk,Nunapitchuk,AK,nonhub,manual_override
+apt_1g4,1G4,1G4,10011,Grand Canyon West,Peach Springs,AZ,nonhub,verified
+apt_2a9,2A9,KOT,12769,Kotlik,Kotlik,AK,nonhub,manual_override
+apt_4a2,4A2,ATT,10405,Atmautluak,Atmautluak,AK,nonhub,manual_override
+apt_a61,A61,WTL,15862,Tuntutuliak,Tuntutuliak,AK,nonhub,manual_override
+apt_abe,ABE,ABE,10135,Lehigh Valley International,Allentown,PA,nonhub,verified
+apt_abi,ABI,ABI,10136,Abilene Regional,Abilene,TX,nonhub,verified
+apt_abq,ABQ,ABQ,10140,Albuquerque International Sunport,Albuquerque,NM,medium,verified
+apt_abr,ABR,ABR,10141,Aberdeen Regional,Aberdeen,SD,nonhub,verified
+apt_aby,ABY,ABY,10146,Southwest Georgia Regional,Albany,GA,nonhub,verified
+apt_ack,ACK,ACK,10154,Nantucket Memorial,Nantucket,MA,nonhub,verified
+apt_act,ACT,ACT,10155,Waco Regional,Waco,TX,nonhub,verified
+apt_acv,ACV,ACV,10157,California Redwood Coast-Humboldt County,Arcata/Eureka,CA,nonhub,verified
+apt_acy,ACY,ACY,10158,Atlantic City International,Atlantic City,NJ,nonhub,verified
+apt_adq,ADQ,ADQ,10170,Kodiak,Kodiak,AK,nonhub,verified
+apt_aex,AEX,AEX,10185,Alexandria International,Alexandria,LA,nonhub,verified
+apt_afw,AFW,AFW,10194,Perot Field/Fort Worth Alliance,Fort Worth,TX,nonhub,verified
+apt_ags,AGS,AGS,10208,Augusta Regional at Bush Field,Augusta,GA,nonhub,verified
+apt_aia,AIA,AIA,10221,Alliance Municipal,Alliance,NE,nonhub,verified
+apt_aki,AKI,AKI,10241,Akiak,Akiak,AK,nonhub,verified
+apt_akn,AKN,AKN,10245,King Salmon,King Salmon,AK,nonhub,verified
+apt_akp,AKP,AKP,10247,Anaktuvuk Pass,Anaktuvuk Pass,AK,nonhub,verified
+apt_akw,AKW,KLW,12728,Klawock,Klawock,AK,nonhub,manual_override
+apt_alb,ALB,ALB,10257,Albany International,Albany,NY,small,verified
+apt_alo,ALO,ALO,10268,Waterloo Regional,Waterloo,IA,nonhub,verified
+apt_als,ALS,ALS,10272,San Luis Valley Regional/Bergman Field,Alamosa,CO,nonhub,verified
+apt_alw,ALW,ALW,10275,Walla Walla Regional,Walla Walla,WA,nonhub,verified
+apt_ama,AMA,AMA,10279,Rick Husband Amarillo International,Amarillo,TX,nonhub,verified
+apt_anc,ANC,ANC,10299,Ted Stevens Anchorage International,Anchorage,AK,medium,verified
+apt_aoo,AOO,AOO,10322,Altoona/Blair County,Altoona,PA,nonhub,verified
+apt_apn,APN,APN,10333,Alpena County Regional,Alpena,MI,nonhub,verified
+apt_aqh,AQH,KWN,12853,Quinhagak,Quinhagak,AK,nonhub,manual_override
+apt_art,ART,ART,10361,Watertown International,Watertown,NY,nonhub,verified
+apt_ase,ASE,ASE,10372,Aspen-Pitkin County/Sardy Field,Aspen,CO,nonhub,verified
+apt_atl,ATL,ATL,10397,Hartsfield/Jackson Atlanta International,Atlanta,GA,large,verified
+apt_atw,ATW,ATW,10408,Appleton International,Appleton,WI,small,verified
+apt_aty,ATY,ATY,10409,Watertown Regional,Watertown,SD,nonhub,verified
+apt_aug,AUG,AUG,10414,Augusta State,Augusta,ME,nonhub,verified
+apt_auk,AUK,AUK,10416,Alakanuk,Alakanuk,AK,nonhub,verified
+apt_aus,AUS,AUS,10423,Austin-Bergstrom International,Austin,TX,large,verified
+apt_avl,AVL,AVL,10431,Asheville Regional,Asheville,NC,small,verified
+apt_avp,AVP,AVP,10434,Wilkes-Barre/Scranton International,Wilkes-Barre/Scranton,PA,nonhub,verified
+apt_awi,AWI,AIN,10225,Wainwright,Wainwright,AK,nonhub,manual_override
+apt_azo,AZO,AZO,10469,Kalamazoo/Battle Creek International,Kalamazoo,MI,nonhub,verified
+apt_bbg,BBG,BKG,10643,Branson,Branson,MO,nonhub,manual_override
+apt_bct,BCT,BCT,10519,Boca Raton,Boca Raton,FL,nonhub,verified
+apt_bdl,BDL,BDL,10529,Bradley International,Windsor Locks,CT,medium,verified
+apt_bed,BED,BED,10540,Laurence G Hanscom Field,Bedford,MA,nonhub,verified
+apt_bet,BET,BET,10551,Bethel,Bethel,AK,nonhub,verified
+apt_bfd,BFD,BFD,10557,Bradford Regional,Bradford,PA,nonhub,verified
+apt_bff,BFF,BFF,10558,Scottsbluff/Western Nebraska Regional/Wm B Heilig Field,Scottsbluff,NE,nonhub,verified
+apt_bfi,BFI,BFI,10559,Boeing Field/King County International,Seattle,WA,nonhub,verified
+apt_bfl,BFL,BFL,10561,Meadows Field,Bakersfield,CA,nonhub,verified
+apt_bfm,BFM,BFM,10562,Mobile International,Mobile,AL,nonhub,verified
+apt_bgm,BGM,BGM,10577,Greater Binghamton/Edwin A Link Field,Binghamton,NY,nonhub,verified
+apt_bgr,BGR,BGR,10581,Bangor International,Bangor,ME,nonhub,verified
+apt_bhb,BHB,BHB,10589,Hancock County/Bar Harbor,Bar Harbor,ME,nonhub,verified
+apt_bhm,BHM,BHM,10599,Birmingham-Shuttlesworth International,Birmingham,AL,small,verified
+apt_bid,BID,BID,10613,Block Island State,Block Island,RI,nonhub,verified
+apt_bih,BIH,BIH,10617,Bishop,Bishop,CA,nonhub,verified
+apt_bil,BIL,BIL,10620,Billings Logan International,Billings,MT,small,verified
+apt_bis,BIS,BIS,10627,Bismarck Municipal,Bismarck,ND,nonhub,verified
+apt_bjc,BJC,BJC,10630,Rocky Mountain Metro,Denver,CO,nonhub,verified
+apt_bji,BJI,BJI,10631,Bemidji Regional,Bemidji,MN,nonhub,verified
+apt_bkw,BKW,BKW,10654,Raleigh County Memorial,Beckley,WV,nonhub,verified
+apt_bli,BLI,BLI,10666,Bellingham International,Bellingham,WA,nonhub,verified
+apt_blv,BLV,BLV,10676,Scott AFB/Midamerica St Louis,Belleville,IL,nonhub,verified
+apt_bmg,BMG,BMG,10683,Monroe County,Bloomington,IN,nonhub,verified
+apt_bmi,BMI,BMI,10685,Central Il Regional/Bloomington-Normal,Bloomington/Normal,IL,nonhub,verified
+apt_bna,BNA,BNA,10693,Nashville International,Nashville,TN,large,verified
+apt_boi,BOI,BOI,10713,Boise Air Terminal/Gowen Field,Boise,ID,medium,verified
+apt_bos,BOS,BOS,10721,General Edward Lawrence Logan International,Boston,MA,large,verified
+apt_bpt,BPT,BPT,10728,Jack Brooks Regional,Beaumont/Port Arthur,TX,nonhub,verified
+apt_bqk,BQK,BQK,10731,Brunswick Golden Isles,Brunswick,GA,nonhub,verified
+apt_bqn,BQN,BQN,10732,Rafael Hernandez,Aguadilla,PR,nonhub,verified
+apt_brd,BRD,BRD,10739,Brainerd Lakes Regional,Brainerd,MN,nonhub,verified
+apt_brl,BRL,BRL,10744,Southeast Iowa Regional,Burlington,IA,nonhub,verified
+apt_bro,BRO,BRO,10747,Brownsville/South Padre Island International,Brownsville,TX,nonhub,verified
+apt_brw,BRW,BRW,10754,Wiley Post-Will Rogers Memorial,Utqiagvik,AK,nonhub,verified
+apt_btm,BTM,BTM,10779,Bert Mooney,Butte,MT,nonhub,verified
+apt_btr,BTR,BTR,10781,"Baton Rouge Metro, Ryan Field",Baton Rouge,LA,nonhub,verified
+apt_btv,BTV,BTV,10785,Patrick Leahy Burlington International,Burlington,VT,small,verified
+apt_buf,BUF,BUF,10792,Buffalo Niagara International,Buffalo,NY,medium,verified
+apt_bur,BUR,BUR,10800,Bob Hope,Burbank,CA,medium,verified
+apt_bvk,BVK,BKC,10640,Buckland,Buckland,AK,nonhub,manual_override
+apt_bvu,BVU,BLD,10661,Boulder City Municipal,Boulder City,NV,nonhub,manual_override
+apt_bwi,BWI,BWI,10821,Baltimore/Washington International Thurgood Marshall,Baltimore,MD,large,verified
+apt_bzn,BZN,BZN,10849,Bozeman Yellowstone International,Bozeman,MT,small,verified
+apt_cae,CAE,CAE,10868,Columbia Metro,Columbia,SC,small,verified
+apt_cak,CAK,CAK,10874,Akron-Canton Regional,Akron,OH,nonhub,verified
+apt_ccr,CCR,CCR,10910,Buchanan Field,Concord,CA,nonhub,verified
+apt_cdb,CDB,CDB,10917,Cold Bay,Cold Bay,AK,nonhub,verified
+apt_cdc,CDC,CDC,10918,Cedar City Regional,Cedar City,UT,nonhub,verified
+apt_cdv,CDV,CDV,10926,Merle K (Mudhole) Smith,Cordova,AK,nonhub,verified
+apt_cec,CEC,CEC,10930,Jack McNamara Field,Crescent City,CA,nonhub,verified
+apt_cez,CEZ,CEZ,10950,Cortez Municipal,Cortez,CO,nonhub,verified
+apt_cfk,CFK,CYF,11227,Chefornak,Chefornak,AK,nonhub,manual_override
+apt_cgi,CGI,CGI,10967,Cape Girardeau Regional,Cape Girardeau,MO,nonhub,verified
+apt_cha,CHA,CHA,10980,Lovell Field,Chattanooga,TN,small,verified
+apt_cho,CHO,CHO,10990,Charlottesville-Albemarle,Charlottesville,VA,nonhub,verified
+apt_chs,CHS,CHS,10994,Charleston AFB/International,Charleston,SC,medium,verified
+apt_cid,CID,CID,11003,The Eastern Iowa,Cedar Rapids,IA,small,verified
+apt_ciu,CIU,CIU,11013,Chippewa County International,Sault Ste Marie,MI,nonhub,verified
+apt_ckb,CKB,CKB,11027,North Central West Virginia,Clarksburg,WV,nonhub,verified
+apt_cle,CLE,CLE,11042,Cleveland-Hopkins International,Cleveland,OH,medium,verified
+apt_cll,CLL,CLL,11049,Easterwood Field,College Station,TX,nonhub,verified
+apt_clt,CLT,CLT,11057,Charlotte/Douglas International,Charlotte,NC,large,verified
+apt_cmh,CMH,CMH,11066,John Glenn Columbus International,Columbus,OH,medium,verified
+apt_cmi,CMI,CMI,11067,University of Illinois/Willard,Champaign/Urbana,IL,nonhub,verified
+apt_cmx,CMX,CMX,11076,Houghton County Memorial,Hancock,MI,nonhub,verified
+apt_cnm,CNM,CNM,11085,Cavern City Air Terminal,Carlsbad,NM,nonhub,verified
+apt_cny,CNY,CNY,11092,Canyonlands Regional,Moab,UT,nonhub,verified
+apt_cod,COD,COD,11097,Yellowstone Regional,Cody,WY,nonhub,verified
+apt_cos,COS,COS,11109,City of Colorado Springs Municipal,Colorado Springs,CO,small,verified
+apt_cou,COU,COU,11111,Columbia Regional,Columbia,MO,nonhub,verified
+apt_cpr,CPR,CPR,11122,Casper/Natrona County International,Casper,WY,nonhub,verified
+apt_cps,CPS,CPS,11123,St Louis Downtown,Cahokia/St Louis,IL,nonhub,manual_override
+apt_cpx,CPX,CPX,11126,Benjamin Rivera Noriega,Isla De Culebra,PR,nonhub,verified
+apt_crp,CRP,CRP,11140,Corpus Christi International,Corpus Christi,TX,nonhub,verified
+apt_crq,CRQ,CLD,11041,McClellan-Palomar,Carlsbad,CA,nonhub,manual_override
+apt_crw,CRW,CRW,11146,West Virginia International Yeager,Charleston,WV,nonhub,verified
+apt_csg,CSG,CSG,11150,Columbus,Columbus,GA,nonhub,verified
+apt_cvg,CVG,CVG,11193,Cincinnati/Northern Kentucky International,Covington,KY,medium,verified
+apt_cvn,CVN,CVN,11197,Clovis Regional,Clovis,NM,nonhub,verified
+apt_cvx,CVX,,,Charlevoix Municipal,Charlevoix,MI,nonhub,faa_only
+apt_cwa,CWA,CWA,11203,Central Wisconsin,Mosinee,WI,nonhub,verified
+apt_cxf,CXF,CXF,11214,Coldfoot,Coldfoot,AK,nonhub,verified
+apt_cys,CYS,CYS,11233,Cheyenne Regional/Jerry Olson Field,Cheyenne,WY,nonhub,verified
+apt_d76,D76,ORV,13942,Robert /Bob/ Curtis Memorial,Noorvik,AK,nonhub,manual_override
+apt_dab,DAB,DAB,11252,Daytona Beach International,Daytona Beach,FL,nonhub,verified
+apt_dal,DAL,DAL,11259,Dallas Love Field,Dallas,TX,medium,verified
+apt_day,DAY,DAY,11267,James M Cox Dayton International,Dayton,OH,small,verified
+apt_dbq,DBQ,DBQ,11274,Dubuque Regional,Dubuque,IA,nonhub,verified
+apt_dca,DCA,DCA,11278,Ronald Reagan Washington National,Washington,DC,large,manual_override
+apt_ddc,DDC,DDC,11283,Dodge City Regional,Dodge City,KS,nonhub,verified
+apt_dec,DEC,DEC,11288,Decatur,Decatur,IL,nonhub,verified
+apt_den,DEN,DEN,11292,Denver International,Denver,CO,large,verified
+apt_dfw,DFW,DFW,11298,Dallas-Fort Worth International,Dallas-Fort Worth,TX,large,verified
+apt_dhn,DHN,DHN,11308,Dothan Regional,Dothan,AL,nonhub,verified
+apt_dik,DIK,DIK,11315,Dickinson/Theodore Roosevelt Regional,Dickinson,ND,nonhub,verified
+apt_dlg,DLG,DLG,11336,Dillingham,Dillingham,AK,nonhub,verified
+apt_dlh,DLH,DLH,11337,Duluth International,Duluth,MN,nonhub,verified
+apt_dro,DRO,DRO,11413,Durango-La Plata County,Durango,CO,nonhub,verified
+apt_dsm,DSM,DSM,11423,Des Moines International,Des Moines,IA,small,verified
+apt_dts,DTS,DSI,11421,Destin Executive,Destin,FL,nonhub,manual_override
+apt_dtw,DTW,DTW,11433,Detroit Metro Wayne County,Detroit,MI,large,verified
+apt_duj,DUJ,DUJ,11441,Dubois Regional,Dubois,PA,nonhub,verified
+apt_dut,DUT,DUT,11445,Unalaska,Unalaska,AK,nonhub,verified
+apt_duy,DUY,KKH,12708,Kongiganak,Kongiganak,AK,nonhub,manual_override
+apt_dvl,DVL,DVL,11447,Devils Lake Regional,Devils Lake,ND,nonhub,verified
+apt_ear,EAR,EAR,11468,Kearney Regional,Kearney,NE,nonhub,verified
+apt_eat,EAT,EAT,11470,Pangborn Memorial,Wenatchee,WA,nonhub,verified
+apt_eau,EAU,EAU,11471,Chippewa Valley Regional,Eau Claire,WI,nonhub,verified
+apt_ecp,ECP,ECP,11481,Northwest Florida Beaches International,Panama City,FL,small,verified
+apt_eek,EEK,EEK,11492,Eek,Eek,AK,nonhub,verified
+apt_ege,EGE,EGE,11503,Eagle County Regional,Eagle,CO,nonhub,verified
+apt_eko,EKO,EKO,11525,Elko Regional,Elko,NV,nonhub,verified
+apt_eld,ELD,ELD,11531,South Arkansas Regional at Goodwin Field,El Dorado,AR,nonhub,verified
+apt_elm,ELM,ELM,11537,Elmira/Corning Regional,Elmira/Corning,NY,nonhub,verified
+apt_elp,ELP,ELP,11540,El Paso International,El Paso,TX,small,verified
+apt_ena,ENA,ENA,11555,Kenai Municipal,Kenai,AK,nonhub,verified
+apt_enm,ENM,EMK,11550,Emmonak,Emmonak,AK,nonhub,manual_override
+apt_eri,ERI,ERI,11577,Erie International/Tom Ridge Field,Erie,PA,nonhub,verified
+apt_esc,ESC,ESC,11587,Delta County,Escanaba,MI,nonhub,verified
+apt_eug,EUG,EUG,11603,Mahlon Sweet Field,Eugene,OR,small,verified
+apt_evv,EVV,EVV,11612,Evansville Regional,Evansville,IN,nonhub,verified
+apt_ewn,EWN,EWN,11617,Coastal Carolina Regional,New Bern,NC,nonhub,verified
+apt_ewr,EWR,EWR,11618,Newark Liberty International,Newark,NJ,large,verified
+apt_eyw,EYW,EYW,11624,Key West International,Key West,FL,small,verified
+apt_fai,FAI,FAI,11630,Fairbanks International,Fairbanks,AK,small,verified
+apt_far,FAR,FAR,11637,Hector International,Fargo,ND,small,verified
+apt_fat,FAT,FAT,11638,Fresno Yosemite International,Fresno,CA,small,verified
+apt_fay,FAY,FAY,11641,Fayetteville Regional/Grannis Field,Fayetteville,NC,nonhub,verified
+apt_fhr,FHR,FRD,11762,Friday Harbor,Friday Harbor,WA,nonhub,manual_override
+apt_flg,FLG,FLG,11695,Flagstaff Pulliam,Flagstaff,AZ,nonhub,verified
+apt_fll,FLL,FLL,11697,Fort Lauderdale/Hollywood International,Fort Lauderdale,FL,large,verified
+apt_flo,FLO,FLO,11699,Florence Regional,Florence,SC,nonhub,verified
+apt_fnl,FNL,FNL,11719,Northern Colorado Regional,Fort Collins/Loveland,CO,nonhub,verified
+apt_fnt,FNT,FNT,11721,Bishop International,Flint,MI,nonhub,verified
+apt_fod,FOD,FOD,11725,Fort Dodge Regional,Fort Dodge,IA,nonhub,verified
+apt_foe,FOE,FOE,11726,Topeka Regional,Topeka,KS,nonhub,verified
+apt_frg,FRG,FRG,11764,Republic,Farmingdale,NY,nonhub,verified
+apt_fsd,FSD,FSD,11775,Joe Foss Field,Sioux Falls,SD,small,verified
+apt_fsm,FSM,FSM,11778,Fort Smith Regional,Fort Smith,AR,nonhub,verified
+apt_fwa,FWA,FWA,11823,Fort Wayne International,Fort Wayne,IN,nonhub,verified
+apt_fxe,FXE,FXE,11827,Fort Lauderdale Executive,Fort Lauderdale,FL,nonhub,verified
+apt_fyu,FYU,FYU,11833,Fort Yukon,Fort Yukon,AK,nonhub,verified
+apt_gal,GAL,GAL,11844,Edward G Pitka Sr,Galena,AK,nonhub,verified
+apt_gam,GAM,GAM,11845,Gambell,Gambell,AK,nonhub,verified
+apt_gcc,GCC,GCC,11865,Northeast Wyoming Regional,Gillette,WY,nonhub,verified
+apt_gck,GCK,GCK,11867,Garden City Regional,Garden City,KS,nonhub,verified
+apt_gcn,GCN,GCN,11869,Grand Canyon National Park,Grand Canyon,AZ,nonhub,verified
+apt_geg,GEG,GEG,11884,Spokane International,Spokane,WA,small,verified
+apt_gfk,GFK,GFK,11898,Grand Forks International,Grand Forks,ND,nonhub,verified
+apt_ggg,GGG,GGG,11905,East Texas Regional,Longview,TX,nonhub,verified
+apt_ggw,GGW,GGW,11908,Wokal Field/Glasgow-Valley County,Glasgow,MT,nonhub,verified
+apt_gjt,GJT,GJT,11921,Grand Junction Regional,Grand Junction,CO,nonhub,verified
+apt_glh,GLH,GLH,11931,Greenville Mid-Delta,Greenville,MS,nonhub,verified
+apt_gnv,GNV,GNV,11953,Gainesville Regional,Gainesville,FL,nonhub,verified
+apt_gpi,GPI,FCA,11648,Glacier Park International,Kalispell,MT,small,manual_override
+apt_gpt,GPT,GPT,11973,Gulfport-Biloxi International,Gulfport,MS,nonhub,verified
+apt_grb,GRB,GRB,11977,Green Bay/Austin Straubel International,Green Bay,WI,nonhub,verified
+apt_gri,GRI,GRI,11980,Central Nebraska Regional,Grand Island,NE,nonhub,verified
+apt_grk,GRK,GRK,11982,Robert Gray AAF,Fort Cavazos (killeen),TX,nonhub,verified
+apt_gro,GRO,ROP,14582,Benjamin Taisacan Manglona International,Rota Island,MP,nonhub,manual_override
+apt_grr,GRR,GRR,11986,Gerald R Ford International,Grand Rapids,MI,small,verified
+apt_gsn,GSN,SPN,14955,Francisco C Ada/Saipan International,Saipan Island,MP,nonhub,manual_override
+apt_gso,GSO,GSO,11995,Piedmont Triad International,Greensboro,NC,small,verified
+apt_gsp,GSP,GSP,11996,Greenville Spartanburg International,Greer,SC,small,verified
+apt_gst,GST,GST,11997,Gustavus,Gustavus,AK,nonhub,verified
+apt_gtf,GTF,GTF,12003,Great Falls International,Great Falls,MT,nonhub,verified
+apt_gtr,GTR,GTR,12007,Golden Triangle Regional,Columbus/W Point/Starkville,MS,nonhub,verified
+apt_guc,GUC,GUC,12012,Gunnison-Crested Butte Regional,Gunnison,CO,nonhub,verified
+apt_gum,GUM,GUM,12016,Guam International,Guam,GU,small,manual_override
+apt_gyy,GYY,GYY,12055,Gary/Chicago International,Gary,IN,nonhub,verified
+apt_hdn,HDN,HDN,12094,Yampa Valley,Hayden,CO,nonhub,verified
+apt_hgr,HGR,HGR,12119,Hagerstown Regional/Richard A Henson Field,Hagerstown,MD,nonhub,verified
+apt_hhr,HHR,HHR,12127,Jack Northrop Field/Hawthorne Municipal,Hawthorne,CA,nonhub,verified
+apt_hib,HIB,HIB,12129,Range Regional,Hibbing,MN,nonhub,verified
+apt_hla,HLA,HSL,12214,Huslia,Huslia,AK,nonhub,manual_override
+apt_hln,HLN,HLN,12156,Helena Regional,Helena,MT,nonhub,verified
+apt_hnh,HNH,HNH,12171,Hoonah,Hoonah,AK,nonhub,verified
+apt_hnl,HNL,HNL,12173,Daniel K Inouye International,Honolulu,HI,large,verified
+apt_hns,HNS,HNS,12175,Haines,Haines,AK,nonhub,verified
+apt_hob,HOB,HOB,12177,Lea County Regional,Hobbs,NM,nonhub,verified
+apt_hom,HOM,HOM,12184,Homer,Homer,AK,nonhub,verified
+apt_hot,HOT,HOT,12190,Memorial Field,Hot Springs,AR,nonhub,verified
+apt_hou,HOU,HOU,12191,William P Hobby,Houston,TX,medium,verified
+apt_hpb,HPB,HPB,12195,Hooper Bay,Hooper Bay,AK,nonhub,verified
+apt_hpn,HPN,HPN,12197,Westchester County,White Plains,NY,small,verified
+apt_hrl,HRL,HRL,12206,Valley International,Harlingen,TX,small,verified
+apt_hro,HRO,HRO,12207,Boone County,Harrison,AR,nonhub,verified
+apt_hsv,HSV,HSV,12217,Huntsville International-Carl T Jones Field,Huntsville,AL,small,verified
+apt_hts,HTS,HTS,12223,Tri-State/Milton J Ferguson Field,Huntington,WV,nonhub,verified
+apt_hvn,HVN,HVN,12244,Tweed/New Haven,New Haven,CT,small,verified
+apt_hvr,HVR,HVR,12245,Havre City-County,Havre,MT,nonhub,verified
+apt_hxd,HXD,HHH,12124,Hilton Head,Hilton Head Island,SC,nonhub,manual_override
+apt_hya,HYA,HYA,12250,Cape Cod Gateway,Hyannis,MA,nonhub,verified
+apt_hys,HYS,HYS,12255,Hays Regional,Hays,KS,nonhub,verified
+apt_iad,IAD,IAD,12264,Washington Dulles International,Washington,DC,large,manual_override
+apt_iag,IAG,IAG,12265,Niagara Falls International,Niagara Falls,NY,nonhub,verified
+apt_iah,IAH,IAH,12266,George Bush Intercontinental/Houston,Houston,TX,large,verified
+apt_ian,IAN,IAN,12268,Bob Baker Memorial,Kiana,AK,nonhub,verified
+apt_ict,ICT,ICT,12278,Wichita Dwight D Eisenhower National,Wichita,KS,small,verified
+apt_ida,IDA,IDA,12280,Idaho Falls Regional,Idaho Falls,ID,nonhub,verified
+apt_ifp,IFP,IFP,10590,Laughlin/Bullhead International,Bullhead City,AZ,nonhub,verified
+apt_iik,IIK,KPN,12779,Kipnuk,Kipnuk,AK,nonhub,manual_override
+apt_ilg,ILG,ILG,12320,New Castle,Wilmington,DE,nonhub,verified
+apt_ili,ILI,ILI,12321,Iliamna,Iliamna,AK,nonhub,verified
+apt_ilm,ILM,ILM,12323,Wilmington International,Wilmington,NC,small,verified
+apt_imt,IMT,IMT,12335,Ford,Iron Mountain Kingsford,MI,nonhub,verified
+apt_ind,IND,IND,12339,Indianapolis International,Indianapolis,IN,medium,verified
+apt_inl,INL,INL,12343,Falls International/Einarson Field,International Falls,MN,nonhub,verified
+apt_ipl,IPL,IPL,12363,Imperial County,Imperial,CA,nonhub,verified
+apt_irk,IRK,IRK,12375,Kirksville Regional,Kirksville,MO,nonhub,verified
+apt_isp,ISP,ISP,12391,Long Island MacArthur,New York,NY,small,verified
+apt_ith,ITH,ITH,12397,Ithaca Tompkins International,Ithaca,NY,nonhub,verified
+apt_ito,ITO,ITO,12402,Hilo International,Hilo,HI,small,verified
+apt_iwa,IWA,AZA,10466,Mesa Gateway,Phoenix,AZ,small,manual_override
+apt_iwd,IWD,IWD,12412,Gogebic/Iron County,Ironwood,MI,nonhub,verified
+apt_jac,JAC,JAC,12441,Jackson Hole,Jackson,WY,small,verified
+apt_jan,JAN,JAN,12448,Jackson-Medgar Wiley Evers International,Jackson,MS,small,verified
+apt_jax,JAX,JAX,12451,Jacksonville International,Jacksonville,FL,medium,verified
+apt_jfk,JFK,JFK,12478,John F Kennedy International,New York,NY,large,verified
+apt_jln,JLN,JLN,12511,Joplin Regional,Joplin,MO,nonhub,verified
+apt_jms,JMS,JMS,12519,Jamestown Regional,Jamestown,ND,nonhub,verified
+apt_jnu,JNU,JNU,12523,Juneau International,Juneau,AK,nonhub,verified
+apt_jqf,JQF,USA,12544,Concord-Padgett Regional,Concord,NC,nonhub,manual_override
+apt_jst,JST,JST,12559,John Murtha Johnstown/Cambria County,Johnstown,PA,nonhub,verified
+apt_kae,KAE,KAE,12610,Kake,Kake,AK,nonhub,verified
+apt_koa,KOA,KOA,12758,Ellison Onizuka Kona International at Keahole,Kailua/Kona,HI,small,verified
+apt_ksm,KSM,KSM,12807,St Mary's,St Mary's,AK,nonhub,verified
+apt_ktn,KTN,KTN,12819,Ketchikan International,Ketchikan,AK,nonhub,verified
+apt_kvl,KVL,KVL,12844,Kivalina,Kivalina,AK,nonhub,verified
+apt_kwt,KWT,KWT,12855,Kwethluk,Kwethluk,AK,nonhub,verified
+apt_laf,LAF,LAF,12878,Purdue University,Lafayette,IN,nonhub,verified
+apt_lal,LAL,LAL,12882,Lakeland Linder International,Lakeland,FL,nonhub,verified
+apt_lan,LAN,LAN,12884,Capital Region International,Lansing,MI,nonhub,verified
+apt_lar,LAR,LAR,12888,Laramie Regional,Laramie,WY,nonhub,verified
+apt_las,LAS,LAS,12889,Harry Reid International,Las Vegas,NV,large,verified
+apt_law,LAW,LAW,12891,Lawton-Fort Sill Regional,Lawton,OK,nonhub,verified
+apt_lax,LAX,LAX,12892,Los Angeles International,Los Angeles,CA,large,verified
+apt_lbb,LBB,LBB,12896,Lubbock Preston Smith International,Lubbock,TX,small,verified
+apt_lbe,LBE,LBE,12898,Arnold Palmer Regional,Latrobe,PA,nonhub,verified
+apt_lbf,LBF,LBF,12899,North Platte Regional/Lee Bird Field,North Platte,NE,nonhub,verified
+apt_lbl,LBL,LBL,12902,Liberal Mid-America Regional,Liberal,KS,nonhub,verified
+apt_lch,LCH,LCH,12915,Lake Charles Regional,Lake Charles,LA,nonhub,verified
+apt_lck,LCK,LCK,12917,Rickenbacker International,Columbus,OH,nonhub,verified
+apt_leb,LEB,LEB,12932,Lebanon Municipal,Lebanon,NH,nonhub,verified
+apt_lex,LEX,LEX,12945,Blue Grass,Lexington,KY,small,verified
+apt_lft,LFT,LFT,12951,Lafayette Regional/Paul Fournet Field,Lafayette,LA,nonhub,verified
+apt_lga,LGA,LGA,12953,LaGuardia,New York,NY,large,verified
+apt_lgb,LGB,LGB,12954,Long Beach (Daugherty Field),Long Beach,CA,small,verified
+apt_lhd,LHD,,,Lake Hood,Anchorage,AK,nonhub,faa_only
+apt_lih,LIH,LIH,12982,Lihue,Lihue,HI,small,verified
+apt_lit,LIT,LIT,12992,Bill and Hillary Clinton National/Adams Field,Little Rock,AR,small,verified
+apt_lnk,LNK,LNK,13029,Lincoln,Lincoln,NE,nonhub,verified
+apt_lns,LNS,LNS,13032,Lancaster,Lancaster,PA,nonhub,verified
+apt_lny,LNY,LNY,13034,Lanai,Lanai City,HI,nonhub,verified
+apt_lrd,LRD,LRD,13061,Laredo International,Laredo,TX,nonhub,verified
+apt_lse,LSE,LSE,13076,La Crosse Regional,La Crosse,WI,nonhub,verified
+apt_lup,LUP,LUP,13109,Kalaupapa,Kalaupapa,HI,nonhub,verified
+apt_lwb,LWB,LWB,13121,Greenbrier Valley,Lewisburg,WV,nonhub,verified
+apt_lws,LWS,LWS,13127,Lewiston/Nez Perce County,Lewiston,ID,nonhub,verified
+apt_lyh,LYH,LYH,13139,Lynchburg Regional/Preston Glenn Field,Lynchburg,VA,nonhub,verified
+apt_maf,MAF,MAF,13158,Midland International Air And Space Port,Midland,TX,small,verified
+apt_maz,MAZ,MAZ,13176,Eugenio Maria De Hostos,Mayaguez,PR,nonhub,verified
+apt_mbl,MBL,MBL,13182,Manistee County/Blacker,Manistee,MI,nonhub,verified
+apt_mbs,MBS,MBS,13184,MBS International,Saginaw,MI,nonhub,verified
+apt_mce,MCE,MCE,13194,Merced Yosemite Regional,Merced,CA,nonhub,verified
+apt_mcg,MCG,MCG,13196,McGrath,McGrath,AK,nonhub,verified
+apt_mci,MCI,MCI,13198,Kansas City International,Kansas City,MO,medium,verified
+apt_mck,MCK,MCK,13200,McCook Ben Nelson Regional,McCook,NE,nonhub,verified
+apt_mcn,MCN,MCN,13203,Middle Georgia Regional,Macon,GA,nonhub,verified
+apt_mco,MCO,MCO,13204,Orlando International,Orlando,FL,large,verified
+apt_mcw,MCW,MCW,13211,Mason City Municipal,Mason City,IA,nonhub,verified
+apt_mdm,MDM,MLL,13369,Marshall Don Hunter Sr,Marshall,AK,nonhub,manual_override
+apt_mdt,MDT,MDT,13230,Harrisburg International,Harrisburg,PA,small,verified
+apt_mdw,MDW,MDW,13232,Chicago Midway International,Chicago,IL,medium,verified
+apt_mei,MEI,MEI,13241,Key Field,Meridian,MS,nonhub,verified
+apt_mem,MEM,MEM,13244,Memphis International,Memphis,TN,small,verified
+apt_mfe,MFE,MFE,13256,McAllen International,McAllen,TX,small,verified
+apt_mfr,MFR,MFR,13264,Rogue Valley International/Medford,Medford,OR,small,verified
+apt_mgm,MGM,MGM,13277,Montgomery Regional (Dannelly Field),Montgomery,AL,nonhub,verified
+apt_mgw,MGW,MGW,13282,Morgantown Municipal/Walter L Bill Hart Field,Morgantown,WV,nonhub,verified
+apt_mhk,MHK,MHK,13290,Manhattan Regional,Manhattan,KS,nonhub,verified
+apt_mht,MHT,MHT,13296,Manchester Boston Regional,Manchester,NH,small,verified
+apt_mia,MIA,MIA,13303,Miami International,Miami,FL,large,verified
+apt_mkc,MKC,MKC,13341,Charles B Wheeler Downtown,Kansas City,MO,nonhub,verified
+apt_mke,MKE,MKE,13342,General Mitchell International,Milwaukee,WI,medium,verified
+apt_mkk,MKK,MKK,13347,Molokai,Kaunakakai,HI,nonhub,verified
+apt_mkl,MKL,MKL,13348,Jackson Regional,Jackson,TN,nonhub,verified
+apt_mlb,MLB,MLB,13360,Melbourne Orlando International,Melbourne,FL,nonhub,verified
+apt_mli,MLI,MLI,13367,Quad Cities International,Moline,IL,nonhub,verified
+apt_mlu,MLU,MLU,13377,Monroe Regional,Monroe,LA,nonhub,verified
+apt_mmh,MMH,MMH,13388,Mammoth Yosemite,Mammoth Lakes,CA,nonhub,verified
+apt_mob,MOB,MOB,13422,Mobile Regional,Mobile,AL,nonhub,verified
+apt_mot,MOT,MOT,13433,Minot International,Minot,ND,nonhub,verified
+apt_mou,MOU,MOU,13434,Mountain Village,Mountain Village,AK,nonhub,verified
+apt_mri,MRI,MRI,13467,Merrill Field,Anchorage,AK,nonhub,verified
+apt_mry,MRY,MRY,13476,Monterey Regional,Monterey,CA,nonhub,verified
+apt_msl,MSL,MSL,13484,Northwest Alabama Regional,Muscle Shoals,AL,nonhub,verified
+apt_msn,MSN,MSN,13485,Dane County Regional/Truax Field,Madison,WI,small,verified
+apt_mso,MSO,MSO,13486,Missoula Montana,Missoula,MT,small,verified
+apt_msp,MSP,MSP,13487,Minneapolis-St Paul International/Wold-Chamberlain,Minneapolis,MN,large,verified
+apt_mss,MSS,MSS,13490,Massena International-Richards Field,Massena,NY,nonhub,verified
+apt_msy,MSY,MSY,13495,Louis Armstrong New Orleans International,New Orleans,LA,medium,verified
+apt_mtj,MTJ,MTJ,13502,Montrose Regional,Montrose,CO,nonhub,verified
+apt_mue,MUE,MUE,13520,Waimea-Kohala,Kamuela,HI,nonhub,verified
+apt_mvy,MVY,MVY,13541,Martha's Vineyard,Vineyard Haven,MA,nonhub,verified
+apt_mwa,MWA,MWA,13543,Veterans Airport of Southern Illinois,Marion,IL,nonhub,verified
+apt_myr,MYR,MYR,13577,Myrtle Beach International,Myrtle Beach,SC,small,verified
+apt_nul,NUL,NUL,13768,Nulato,Nulato,AK,nonhub,verified
+apt_nyl,NYL,NYL,13785,Yuma MCAS/Yuma International,Yuma,AZ,nonhub,verified
+apt_oaj,OAJ,OAJ,13795,Albert J Ellis,Jacksonville,NC,nonhub,verified
+apt_oak,OAK,OAK,13796,San Francisco Bay Oakland International,Oakland,CA,medium,verified
+apt_ogd,OGD,OGD,13829,Ogden-Hinckley,Ogden,UT,nonhub,verified
+apt_ogg,OGG,OGG,13830,Kahului,Kahului,HI,medium,verified
+apt_ogs,OGS,OGS,13832,Ogdensburg International,Ogdensburg,NY,nonhub,verified
+apt_okc,OKC,OKC,13851,Okc Will Rogers International,Oklahoma City,OK,small,verified
+apt_olf,OLF,OLF,13862,L M Clayton,Wolf Point,MT,nonhub,verified
+apt_oma,OMA,OMA,13871,Eppley Airfield,Omaha,NE,medium,verified
+apt_ome,OME,OME,13873,Nome,Nome,AK,nonhub,verified
+apt_ont,ONT,ONT,13891,Ontario International,Ontario,CA,medium,verified
+apt_ook,OOK,OOK,13894,Toksook Bay,Toksook Bay,AK,nonhub,verified
+apt_opf,OPF,OPF,13898,Miami-Opa Locka Executive,Miami,FL,nonhub,verified
+apt_ord,ORD,ORD,13930,Chicago O'Hare International,Chicago,IL,large,verified
+apt_orf,ORF,ORF,13931,Norfolk International,Norfolk,VA,medium,verified
+apt_orh,ORH,ORH,13933,Worcester Regional,Worcester,MA,nonhub,verified
+apt_ors,ORS,ESD,11588,Orcas Island,Eastsound,WA,nonhub,manual_override
+apt_oth,OTH,OTH,13964,Southwest Oregon Regional,North Bend,OR,nonhub,verified
+apt_otz,OTZ,OTZ,13970,Ralph Wien Memorial,Kotzebue,AK,nonhub,verified
+apt_owb,OWB,OWB,13983,Owensboro/Daviess County Regional,Owensboro,KY,nonhub,verified
+apt_pae,PAE,PAE,14004,Seattle Paine Field International,Everett,WA,nonhub,verified
+apt_pah,PAH,PAH,14006,Barkley Regional,Paducah,KY,nonhub,verified
+apt_pbg,PBG,PBG,14025,Plattsburgh International,Plattsburgh,NY,nonhub,verified
+apt_pbi,PBI,PBI,14027,Palm Beach International,West Palm Beach,FL,medium,verified
+apt_pdk,PDK,PDK,14050,DeKalb-Peachtree,Atlanta,GA,nonhub,verified
+apt_pdt,PDT,PDT,14054,Eastern Oregon Regional at Pendleton,Pendleton,OR,nonhub,verified
+apt_pdx,PDX,PDX,14057,Portland International,Portland,OR,medium,verified
+apt_pga,PGA,PGA,14081,Page Municipal,Page,AZ,nonhub,verified
+apt_pgd,PGD,PGD,14082,Punta Gorda,Punta Gorda,FL,small,verified
+apt_pgv,PGV,PGV,14092,Pitt-Greenville,Greenville,NC,nonhub,verified
+apt_phf,PHF,PHF,14098,Newport News/Williamsburg International,Newport News,VA,nonhub,verified
+apt_phl,PHL,PHL,14100,Philadelphia International,Philadelphia,PA,large,verified
+apt_pho,PHO,PHO,14102,Point Hope,Point Hope,AK,nonhub,verified
+apt_phx,PHX,PHX,14107,Phoenix Sky Harbor International,Phoenix,AZ,large,verified
+apt_pia,PIA,PIA,14108,General Downing - Peoria International,Peoria,IL,nonhub,verified
+apt_pib,PIB,PIB,14109,Hattiesburg/Laurel Regional,Hattiesburg-Laurel,MS,nonhub,verified
+apt_pie,PIE,PIE,14112,St Pete-Clearwater International,St Petersburg-Clearwater,FL,small,verified
+apt_pih,PIH,PIH,14113,Pocatello Regional,Pocatello,ID,nonhub,verified
+apt_pir,PIR,PIR,14120,Pierre Regional,Pierre,SD,nonhub,verified
+apt_pit,PIT,PIT,14122,Pittsburgh International,Pittsburgh,PA,medium,verified
+apt_pkb,PKB,PKB,14131,Mid-Ohio Valley Regional,Parkersburg,WV,nonhub,verified
+apt_pln,PLN,PLN,14150,Pellston Regional/Emmet County,Pellston,MI,nonhub,verified
+apt_pns,PNS,PNS,14193,Pensacola International,Pensacola,FL,small,verified
+apt_ppg,PPG,PPG,14222,Pago Pago International,Pago Pago,AS,nonhub,manual_override
+apt_pqi,PQI,PQI,14231,Presque Isle International,Presque Isle,ME,nonhub,verified
+apt_prc,PRC,PRC,14237,Prescott Regional/Ernest A Love Field,Prescott,AZ,nonhub,verified
+apt_psc,PSC,PSC,14252,Tri-Cities,Pasco,WA,small,verified
+apt_pse,PSE,PSE,14254,Mercedita,Ponce,PR,nonhub,verified
+apt_psg,PSG,PSG,14256,Petersburg James A Johnson,Petersburg,AK,nonhub,verified
+apt_psm,PSM,PSM,14259,Portsmouth International at Pease,Portsmouth,NH,nonhub,verified
+apt_psp,PSP,PSP,14262,Palm Springs International,Palm Springs,CA,small,verified
+apt_puw,PUW,PUW,14303,Pullman/Moscow Regional,Pullman/Moscow,WA,nonhub,verified
+apt_pvc,PVC,PVC,14306,Provincetown Municipal,Provincetown,MA,nonhub,verified
+apt_pvd,PVD,PVD,14307,Rhode Island T.F. Green International,Providence,RI,small,verified
+apt_pvu,PVU,PVU,14314,Provo Municipal,Provo,UT,small,verified
+apt_pwm,PWM,PWM,14321,Portland International Jetport,Portland,ME,small,verified
+apt_rap,RAP,RAP,14457,Rapid City Regional,Rapid City,SD,nonhub,verified
+apt_rce,RCE,,,Clarence E Page Municipal,Oklahoma City,OK,nonhub,faa_only
+apt_rdd,RDD,RDD,14487,Redding Regional,Redding,CA,nonhub,verified
+apt_rdm,RDM,RDM,14489,Roberts Field,Redmond,OR,small,verified
+apt_rdu,RDU,RDU,14492,Raleigh-Durham International,Raleigh/Durham,NC,medium,verified
+apt_rfd,RFD,RFD,14512,Chicago/Rockford International,Chicago/Rockford,IL,nonhub,verified
+apt_rhi,RHI,RHI,14520,Rhinelander/Oneida County,Rhinelander,WI,nonhub,verified
+apt_ric,RIC,RIC,14524,Richmond International,Richmond,VA,medium,verified
+apt_riw,RIW,RIW,14534,Central Wyoming Regional,Riverton,WY,nonhub,verified
+apt_rkd,RKD,RKD,14539,Knox County Regional,Rockland,ME,nonhub,verified
+apt_rks,RKS,RKS,14543,Southwest Wyoming Regional,Rock Springs,WY,nonhub,verified
+apt_rno,RNO,RNO,14570,Reno/Tahoe International,Reno,NV,small,verified
+apt_roa,ROA,ROA,14574,Roanoke/Blacksburg Regional (Woodrum Field),Roanoke,VA,nonhub,verified
+apt_roc,ROC,ROC,14576,Frederick Douglass/Greater Rochester International,Rochester,NY,small,verified
+apt_row,ROW,ROW,14588,Roswell Air Center,Roswell,NM,nonhub,verified
+apt_rsh,RSH,RSH,14627,Russian Mission,Russian Mission,AK,nonhub,verified
+apt_rst,RST,RST,14633,Rochester International,Rochester,MN,nonhub,verified
+apt_rsw,RSW,RSW,14635,Southwest Florida International,Fort Myers,FL,medium,verified
+apt_rut,RUT,RUT,14648,Rutland/Southern Vermont Regional,Rutland,VT,nonhub,verified
+apt_rvr,RVR,JRV,12553,Jose Aponte De La Torre,Ceiba,PR,nonhub,manual_override
+apt_s60,S60,KEH,12652,Kenmore Air Harbor,Kenmore,WA,nonhub,manual_override
+apt_saf,SAF,SAF,14674,Santa Fe Regional,Santa Fe,NM,nonhub,verified
+apt_san,SAN,SAN,14679,San Diego International,San Diego,CA,large,verified
+apt_sat,SAT,SAT,14683,San Antonio International,San Antonio,TX,medium,verified
+apt_sav,SAV,SAV,14685,Savannah/Hilton Head International,Savannah,GA,small,verified
+apt_saw,SAW,MQT,13459,Marquette/Sawyer Regional,Marquette,MI,nonhub,manual_override
+apt_sba,SBA,SBA,14689,Santa Barbara Municipal,Santa Barbara,CA,small,verified
+apt_sbd,SBD,SBD,14691,San Bernardino International,San Bernardino,CA,nonhub,verified
+apt_sbn,SBN,SBN,14696,South Bend International,South Bend,IN,small,verified
+apt_sbp,SBP,SBP,14698,San Luis Obispo County Regional,San Luis Obispo,CA,nonhub,verified
+apt_sby,SBY,SBY,14704,Salisbury-Ocean City Wicomico Regional,Salisbury,MD,nonhub,verified
+apt_scc,SCC,SCC,14709,Deadhorse,Deadhorse,AK,nonhub,verified
+apt_sck,SCK,SCK,14716,Stockton Metro,Stockton,CA,nonhub,verified
+apt_scm,SCM,SCM,14718,Scammon Bay,Scammon Bay,AK,nonhub,verified
+apt_sdf,SDF,SDF,14730,Louisville Muhammad Ali International,Louisville,KY,small,verified
+apt_sdl,SDL,SCF,14712,Scottsdale,Scottsdale,AZ,nonhub,manual_override
+apt_sdp,SDP,SDP,14738,Sand Point,Sand Point,AK,nonhub,verified
+apt_sdy,SDY,SDY,14745,Sidney-Richland Regional,Sidney,MT,nonhub,verified
+apt_sea,SEA,SEA,14747,Seattle-Tacoma International,Seattle,WA,large,verified
+apt_sfb,SFB,SFB,14761,Orlando Sanford International,Orlando,FL,small,verified
+apt_sfo,SFO,SFO,14771,San Francisco International,San Francisco,CA,large,verified
+apt_sgf,SGF,SGF,14783,Springfield-Branson National,Springfield,MO,small,verified
+apt_sgu,SGU,SGU,14794,St George Regional,St George,UT,nonhub,verified
+apt_sgy,SGY,SGY,14797,Skagway,Skagway,AK,nonhub,verified
+apt_shd,SHD,SHD,14802,Shenandoah Valley Regional,Staunton/Waynesboro/Harrisonburg,VA,nonhub,verified
+apt_shh,SHH,SHH,14805,Shishmaref,Shishmaref,AK,nonhub,verified
+apt_shr,SHR,SHR,14812,Sheridan County,Sheridan,WY,nonhub,verified
+apt_shv,SHV,SHV,14814,Shreveport Regional,Shreveport,LA,nonhub,verified
+apt_sig,SIG,SIG,14819,Fernando Luis Ribas Dominicci,San Juan,PR,nonhub,verified
+apt_sit,SIT,SIT,14828,Sitka Rocky Gutierrez,Sitka,AK,nonhub,verified
+apt_sjc,SJC,SJC,14831,Norman Y Mineta San Jose International,San Jose,CA,medium,verified
+apt_sjt,SJT,SJT,14842,San Angelo Regional/Mathis Field,San Angelo,TX,nonhub,verified
+apt_sju,SJU,SJU,14843,Luis Munoz Marin International,San Juan,PR,medium,verified
+apt_slc,SLC,SLC,14869,Salt Lake City International,Salt Lake City,UT,large,verified
+apt_sle,SLE,SLE,14871,McNary Field,Salem,OR,nonhub,verified
+apt_slk,SLK,SLK,14875,Adirondack Regional,Saranac Lake,NY,nonhub,verified
+apt_sln,SLN,SLN,14877,Salina Regional,Salina,KS,nonhub,verified
+apt_smf,SMF,SMF,14893,Sacramento International,Sacramento,CA,medium,verified
+apt_smx,SMX,SMX,14905,Santa Maria Public/Capt G Allan Hancock Field,Santa Maria,CA,nonhub,verified
+apt_sna,SNA,SNA,14908,John Wayne/Orange County,Santa Ana,CA,medium,verified
+apt_sov,SOV,SOV,14942,Seldovia,Seldovia,AK,nonhub,verified
+apt_sow,SOW,SOW,14943,Show Low Regional,Show Low,AZ,nonhub,verified
+apt_spi,SPI,SPI,14952,Abraham Lincoln Capital,Springfield,IL,nonhub,verified
+apt_sps,SPS,SPS,14960,Sheppard AFB/Wichita Falls Municipal,Wichita Falls,TX,nonhub,verified
+apt_sql,SQL,SQL,14967,San Carlos,San Carlos,CA,nonhub,verified
+apt_srq,SRQ,SRQ,14986,Sarasota/Bradenton International,Sarasota/Bradenton,FL,small,verified
+apt_stc,STC,STC,15008,St. Cloud Regional,St Cloud,MN,nonhub,verified
+apt_stl,STL,STL,15016,St Louis Lambert International,St Louis,MO,medium,verified
+apt_sts,STS,STS,15023,Charles M Schulz/Sonoma County,Santa Rosa,CA,nonhub,verified
+apt_stt,STT,STT,15024,Cyril E King,Charlotte Amalie,VI,small,verified
+apt_stx,STX,STX,15027,Henry E Rohlsen,Christiansted,VI,nonhub,verified
+apt_sun,SUN,SUN,15041,Friedman Memorial,Hailey,ID,nonhub,verified
+apt_sux,SUX,SUX,15048,Sioux Gateway/Brig General Bud Day Field,Sioux City,IA,nonhub,verified
+apt_sva,SVA,SVA,15049,Savoonga,Savoonga,AK,nonhub,verified
+apt_svc,SVC,SVC,15051,Grant County,Silver City,NM,nonhub,verified
+apt_swf,SWF,SWF,15070,New York Stewart International,New York,NY,nonhub,verified
+apt_swo,SWO,SWO,15074,Stillwater Regional,Stillwater,OK,nonhub,verified
+apt_syr,SYR,SYR,15096,Syracuse Hancock International,Syracuse,NY,small,verified
+apt_tbn,TBN,TBN,15138,Waynesville-St Robert Regional Forney Field,Fort Leonard Wood,MO,nonhub,verified
+apt_tcl,TCL,TCL,15153,Tuscaloosa National,Tuscaloosa,AL,nonhub,verified
+apt_teb,TEB,TEB,15167,Teterboro,Teterboro,NJ,nonhub,verified
+apt_tex,TEX,TEX,15177,Telluride Regional,Telluride,CO,nonhub,verified
+apt_tlh,TLH,TLH,15249,Tallahassee International,Tallahassee,FL,nonhub,verified
+apt_tlt,TLT,TLT,15257,Tuluksak,Tuluksak,AK,nonhub,verified
+apt_tni,TNI,TIQ,15215,Francisco Manglona Borja/Tinian International,Tinian Island,MP,nonhub,manual_override
+apt_tog,TOG,TOG,15293,Togiak,Togiak Village,AK,nonhub,verified
+apt_tol,TOL,TOL,15295,Eugene F Kranz Toledo Express,Toledo,OH,nonhub,verified
+apt_tpa,TPA,TPA,15304,Tampa International,Tampa,FL,large,verified
+apt_tri,TRI,TRI,15323,Tri-Cities,Bristol/Johnson/Kingsport,TN,nonhub,verified
+apt_ttn,TTN,TTN,15356,Trenton Mercer,Trenton,NJ,nonhub,verified
+apt_tul,TUL,TUL,15370,Tulsa International,Tulsa,OK,small,verified
+apt_tup,TUP,TUP,15374,Tupelo Regional,Tupelo,MS,nonhub,verified
+apt_tus,TUS,TUS,15376,Tucson International,Tucson,AZ,small,verified
+apt_tvc,TVC,TVC,15380,Cherry Capital,Traverse City,MI,nonhub,verified
+apt_tvf,TVF,TVF,15381,Thief River Falls Regional,Thief River Falls,MN,nonhub,verified
+apt_twf,TWF,TWF,15389,Joslin Field/Magic Valley Regional,Twin Falls,ID,nonhub,verified
+apt_txk,TXK,TXK,15401,Texarkana Regional-Webb Field,Texarkana,AR,nonhub,verified
+apt_tyr,TYR,TYR,15411,Tyler Pounds Regional,Tyler,TX,nonhub,verified
+apt_tys,TYS,TYS,15412,McGhee Tyson,Knoxville,TN,small,verified
+apt_uin,UIN,UIN,15454,Quincy Regional-Baldwin Field,Quincy,IL,nonhub,verified
+apt_unk,UNK,UNK,15478,Unalakleet,Unalakleet,AK,nonhub,verified
+apt_unv,UNV,SCE,14711,State College Regional,State College,PA,nonhub,manual_override
+apt_vak,VAK,VAK,15554,Chevak,Chevak,AK,nonhub,verified
+apt_vct,VCT,VCT,15569,Victoria Regional,Victoria,TX,nonhub,verified
+apt_vcv,VCV,VCV,15570,Southern California Logistics,Victorville,CA,nonhub,verified
+apt_vdz,VDZ,VDZ,15579,Valdez Pioneer Field,Valdez,AK,nonhub,verified
+apt_vel,VEL,VEL,15582,Vernal Regional,Vernal,UT,nonhub,verified
+apt_vld,VLD,VLD,15607,Valdosta Regional,Valdosta,GA,nonhub,verified
+apt_vps,VPS,VPS,15624,Eglin AFB/Destin-Ft Walton Beach,Valparaiso/Destin-Ft Walton Beach,FL,small,verified
+apt_vqs,VQS,VQS,15626,Antonio Rivera Rodriguez,Isla De Vieques,PR,nonhub,verified
+apt_vrb,VRB,VRB,15628,Vero Beach Regional,Vero Beach,FL,nonhub,verified
+apt_w33,W33,FBS,11646,Friday Harbor,Friday Harbor,WA,nonhub,manual_override
+apt_wlk,WLK,WLK,15785,Selawik,Selawik,AK,nonhub,verified
+apt_wrg,WRG,WRG,15841,Wrangell,Wrangell,AK,nonhub,verified
+apt_wst,WST,WST,15855,Westerly State,Westerly,RI,nonhub,verified
+apt_wtk,WTK,WTK,15861,Noatak,Noatak,AK,nonhub,verified
+apt_wys,WYS,WYS,15897,Yellowstone,West Yellowstone,MT,nonhub,verified
+apt_xna,XNA,XNA,15919,Northwest Arkansas National,Fayetteville/Springdale/Rogers,AR,small,verified
+apt_xwa,XWA,XWA,16869,Williston Basin International,Williston,ND,nonhub,verified
+apt_yak,YAK,YAK,15991,Yakutat,Yakutat,AK,nonhub,verified
+apt_yip,YIP,YIP,16091,Willow Run,Detroit,MI,nonhub,verified
+apt_ykm,YKM,YKM,16101,Yakima Air Terminal/McAllister Field,Yakima,WA,nonhub,verified
+apt_z09,Z09,KUK,12831,Kasigluk,Kasigluk,AK,nonhub,manual_override
+apt_z13,Z13,KKI,12709,Akiachak,Akiachak,AK,nonhub,manual_override

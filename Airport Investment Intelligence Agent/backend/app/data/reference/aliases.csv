@@ -1,0 +1,97 @@
+airport_id,alias,language
+apt_lax,Los Angeles,en
+apt_lax,LA,en
+apt_lax,L.A.,en
+apt_lax,LA airport,en
+apt_lax,לוס אנג'לס,he
+apt_lax,אל איי,he
+apt_sna,John Wayne,en
+apt_sna,John Wayne Airport,en
+apt_sna,Santa Ana,en
+apt_sna,Orange County,en
+apt_sna,John Wayne Orange County,en
+apt_sna,סנטה אנה,he
+apt_sna,ג'ון וויין,he
+apt_sna,ג'ון ויין,he
+apt_sna,אורנג' קאונטי,he
+apt_sfo,San Francisco,en
+apt_sfo,SF,en
+apt_sfo,סן פרנסיסקו,he
+apt_anc,Anchorage,en
+apt_anc,Ted Stevens,en
+apt_anc,Ted Stevens Anchorage,en
+apt_anc,אנקורג',he
+apt_anc,אנקוראג',he
+apt_bos,Boston,en
+apt_bos,Logan,en
+apt_bos,Boston Logan,en
+apt_bos,בוסטון,he
+apt_bos,לוגן,he
+apt_jfk,Kennedy,en
+apt_jfk,John F. Kennedy,en
+apt_jfk,קנדי,he
+apt_jfk,ג'ון פ. קנדי,he
+apt_lga,LaGuardia,en
+apt_lga,La Guardia,en
+apt_lga,לגווארדיה,he
+apt_lga,לה גווארדיה,he
+apt_ewr,Newark,en
+apt_ewr,Newark Liberty,en
+apt_ewr,ניוארק,he
+apt_ord,O'Hare,en
+apt_ord,Chicago O'Hare,en
+apt_ord,או'הייר,he
+apt_ord,אוהייר,he
+apt_mdw,Midway,en
+apt_mdw,Chicago Midway,en
+apt_mdw,מידוויי,he
+apt_pdx,Portland Oregon,en
+apt_pdx,"Portland, OR",en
+apt_pdx,פורטלנד אורגון,he
+apt_pwm,Portland Maine,en
+apt_pwm,"Portland, ME",en
+apt_pwm,Portland Jetport,en
+apt_pwm,פורטלנד מיין,he
+apt_bdl,Bradley,en
+apt_bdl,Hartford,en
+apt_bdl,Bradley Hartford,en
+apt_bdl,ברדלי,he
+apt_bdl,הרטפורד,he
+apt_pvd,Providence,en
+apt_pvd,T.F. Green,en
+apt_pvd,פרובידנס,he
+apt_btv,Burlington,en
+apt_btv,Burlington Vermont,en
+apt_btv,ברלינגטון,he
+apt_mht,Manchester-Boston,en
+apt_mht,"Manchester, NH",en
+apt_mht,מנצ'סטר,he
+apt_hvn,Tweed,en
+apt_hvn,New Haven,en
+apt_hvn,Tweed New Haven,en
+apt_hvn,ניו הייבן,he
+apt_bgr,Bangor,en
+apt_bgr,בנגור,he
+apt_orh,Worcester,en
+apt_orh,ווסטר,he
+apt_ack,Nantucket,en
+apt_ack,ננטקט,he
+apt_mvy,Martha's Vineyard,en
+apt_mvy,Vineyard Haven,en
+apt_mvy,מרתה'ס ויניארד,he
+apt_psm,Pease,en
+apt_psm,"Portsmouth, NH",en
+apt_psm,פורטסמות',he
+apt_hya,Hyannis,en
+apt_hya,Cape Cod,en
+apt_hya,הייאניס,he
+apt_hya,קייפ קוד,he
+apt_pqi,Presque Isle,en
+apt_bed,Hanscom,en
+apt_bed,Hanscom Field,en
+apt_rkd,Knox County,en
+apt_wst,Westerly,en
+apt_bid,Block Island,en
+apt_leb,"Lebanon, NH",en
+apt_bhb,Bar Harbor,en
+apt_bhb,בר הארבור,he

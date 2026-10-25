@@ -1,0 +1,21 @@
+name: airport-intelligence
+
+services:
+  app:
+    build:
+      context: .
+    env_file:
+      - .env
+    environment:
+      AUTO_BOOTSTRAP: ${AUTO_BOOTSTRAP:-true}
+      DATA_DIR: /data
+      FRONTEND_DIST: /app/frontend/dist
+    ports:
+      - "127.0.0.1:8000:8000"
+    volumes:
+      - airport-data:/data
+    restart: unless-stopped
+
+volumes:
+  airport-data:
+    name: airport-intelligence-data

@@ -1,0 +1,17 @@
+.env
+.env.*
+!.env.example
+data/
+tmp/
+docs/
+**/__pycache__/
+**/*.pyc
+backend/.venv/
+backend/build/
+backend/tests/
+backend/.pytest_cache/
+backend/.mypy_cache/
+backend/.ruff_cache/
+frontend/node_modules/
+frontend/dist/
+.claude/
